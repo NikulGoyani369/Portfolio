@@ -5,7 +5,7 @@ Simple and easy to use one page. portfolio webpage for developer
 # For Demo
 
 <a href="https://bit.ly/nirmalportfolio"  target="_blank">
-<div>
+<div target="_blank">
 <u>Click here</u>
 </div>
 </a>
