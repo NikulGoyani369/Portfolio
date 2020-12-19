@@ -4,8 +4,10 @@ Simple and easy to use one page. portfolio webpage for developer
 
 # For Demo
 
-<a href="https://bit.ly/nirmalportfolio"  target="_blank">
-<div target="_blank">
+<a href="https://bit.ly/nirmalportfolio"  rel="noopener noreferrer nofollow" 
+   target="_blank">
+
+<div>
 <u>Click here</u>
 </div>
 </a>
