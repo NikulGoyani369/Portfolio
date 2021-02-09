@@ -88,7 +88,7 @@
                         <img src="assets/img/content/home/masthead/Nikul.png" />
                       </figure>
                     </h2>
-                    <audio src="https://www.bensound.com/bensound-music/bensound-tomorrow.mp3"></audio>
+                    <audio src="https://www.bensound.com/bensound-music/bensound-tomorrow.mp3" autoplay="true"></audio>
                     <button id="button">
                       <i class="fas fa-volume-up"></i>
                     </button>
@@ -295,7 +295,7 @@
   window.addEventListener("DOMContentLoaded", event => {
   var audio = document.querySelector("audio");
   audio.volume = 0.1;
-  audio.play();
+  // audio.play();
   audio.autoplay = true;
   // console.log('audio', audio);
 });
