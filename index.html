@@ -52,7 +52,6 @@
               </a>
             </h1>
           </div>
-
           <div class="col-md-8 col-xs-8">
             <nav id="top-nav">
               <ul class="nav-list transistion">
@@ -89,7 +88,10 @@
                         <img src="assets/img/content/home/masthead/Nikul.png" />
                       </figure>
                     </h2>
-
+                    <audio src="https://www.bensound.com/bensound-music/bensound-tomorrow.mp3"></audio>
+                    <button id="button">
+                      <i class="fas fa-volume-up"></i>
+                    </button>
                     <p class="header-desc">Software Developer.</p>
                   </div>
                 </div>
@@ -288,9 +290,20 @@
         '<script src="assets/js/jquery-1.10.2.min.html"><\/script>'
       );
   </script>
+
+  <script> 
+  window.addEventListener("DOMContentLoaded", event => {
+  var audio = document.querySelector("audio");
+  audio.volume = 0.1;
+  audio.play();
+  audio.autoplay = true;
+  // console.log('audio', audio);
+});
+
+  </script>
   <script src="assets/js/bootstrap.min.js"></script>
   <script src="assets/js/min/app.js"></script>
-  <script src="assets/js/min/init.min.js"></script>
+  <scrip src="assets/js/min/init.min.js"></scrip>
 </body>
 
 </html>
