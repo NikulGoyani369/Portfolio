@@ -401,11 +401,11 @@ b.light-color {
 	text-align: center;
 	font-family: "Courier New", Courier, monospace;
 	background-color: #f89fbc;
-	font-size: 3.5rem;
+	font-size: 25px;
 }
 
 .conTent {
 	text-align: center;
-	font-size: 3.5rem;
+	font-size: 2.5rem;
 	background-color: #f1aab5;
 }
