@@ -174,9 +174,10 @@ b.light-color{ color: #444; }
 	text-align: center;
 	font-family: 'Courier New', Courier, monospace;
 	background-color: #f89fbc;
+	font-size: 3.5rem;
 }
 .conTent {
 	text-align: center;
-	font-size: 1.5rem;
+	font-size: 4.5rem;
 	background-color: #f1aab5;
 }
