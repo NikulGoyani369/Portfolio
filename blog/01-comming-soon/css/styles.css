@@ -163,3 +163,20 @@ b.light-color{ color: #444; }
 
 #rounded-countdown{ width: 80%; margin: 0 auto; }
 
+/* blog page css  */
+
+.head {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.secondHead {
+	text-align: center;
+	font-family: 'Courier New', Courier, monospace;
+	background-color: #f89fbc;
+}
+.conTent {
+	text-align: center;
+	font-size: 1.5rem;
+	background-color: #f1aab5;
+}
